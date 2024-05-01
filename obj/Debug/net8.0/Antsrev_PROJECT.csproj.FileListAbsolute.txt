@@ -1,0 +1,14 @@
+C:\_Code_ev_ayln\coding\Antsrev_PROJECT\bin\Debug\net8.0\Antsrev_PROJECT.exe
+C:\_Code_ev_ayln\coding\Antsrev_PROJECT\bin\Debug\net8.0\Antsrev_PROJECT.deps.json
+C:\_Code_ev_ayln\coding\Antsrev_PROJECT\bin\Debug\net8.0\Antsrev_PROJECT.runtimeconfig.json
+C:\_Code_ev_ayln\coding\Antsrev_PROJECT\bin\Debug\net8.0\Antsrev_PROJECT.dll
+C:\_Code_ev_ayln\coding\Antsrev_PROJECT\bin\Debug\net8.0\Antsrev_PROJECT.pdb
+C:\_Code_ev_ayln\coding\Antsrev_PROJECT\obj\Debug\net8.0\Antsrev_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Code_ev_ayln\coding\Antsrev_PROJECT\obj\Debug\net8.0\Antsrev_PROJECT.AssemblyInfoInputs.cache
+C:\_Code_ev_ayln\coding\Antsrev_PROJECT\obj\Debug\net8.0\Antsrev_PROJECT.AssemblyInfo.cs
+C:\_Code_ev_ayln\coding\Antsrev_PROJECT\obj\Debug\net8.0\Antsrev_PROJECT.csproj.CoreCompileInputs.cache
+C:\_Code_ev_ayln\coding\Antsrev_PROJECT\obj\Debug\net8.0\Antsrev_PROJECT.dll
+C:\_Code_ev_ayln\coding\Antsrev_PROJECT\obj\Debug\net8.0\refint\Antsrev_PROJECT.dll
+C:\_Code_ev_ayln\coding\Antsrev_PROJECT\obj\Debug\net8.0\Antsrev_PROJECT.pdb
+C:\_Code_ev_ayln\coding\Antsrev_PROJECT\obj\Debug\net8.0\Antsrev_PROJECT.genruntimeconfig.cache
+C:\_Code_ev_ayln\coding\Antsrev_PROJECT\obj\Debug\net8.0\ref\Antsrev_PROJECT.dll
